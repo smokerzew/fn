@@ -1,0 +1,16 @@
+RUN CMD AS ADMIN FOR BOTH
+
+To disable HPET :
+
+bcdedit /deletevalue useplatformclock
+
+bcdedit /set disabledynamictick yes
+
+devmgmt.msc
+
+To revert HPET (Turn it back on) : 
+
+bcdedit /set useplatformclock true
+
+bcdedit /set disabledynamictick no 
+

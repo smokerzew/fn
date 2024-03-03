@@ -1,0 +1,7 @@
+run CMD as Admin : 
+
+netsh winsock reset
+
+ipconfig /flushdns
+
+sfc /scannow

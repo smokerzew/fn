@@ -1,0 +1,1 @@
+View > devices by connection > USB Controller > right click > properties > Power Management > Uncheck “allow the computer to turn of this device” 

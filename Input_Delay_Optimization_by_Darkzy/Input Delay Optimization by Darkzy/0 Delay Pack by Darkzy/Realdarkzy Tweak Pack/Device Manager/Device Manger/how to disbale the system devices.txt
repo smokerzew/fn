@@ -1,0 +1,7 @@
+in the picture the devices with the down arrow next to it is what you want to disable on your pc 
+
+System devices > the device whats in the image > right click > Disable device 
+
+
+
+
